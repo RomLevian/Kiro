@@ -131,6 +131,7 @@ Never use: `version`, `tags`, `repository`, `license` — these do not exist in 
 
 ## License and Support
 
-This power is open source (Apache-2.0).
+This power is open source (Apache-2.0). No data is collected or transmitted.
+- [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 - [Source Repository](https://github.com/RomLevian/Kiro)
 - [Support / Issues](https://github.com/RomLevian/Kiro/issues)
