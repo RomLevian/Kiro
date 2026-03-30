@@ -1,16 +1,16 @@
 ---
-name: "skill-to-power"
-displayName: "Skill to Power"
-description: "Converts Claude Code Skills into Kiro Powers. Paste a GitHub link to a Claude Skill and this power will fetch it, restructure it, and create a ready-to-use Kiro Power."
+name: "migrate-to-kiro-powers"
+displayName: "Migrate to Kiro Powers"
+description: "Bring existing Claude Code Skills into Kiro's power ecosystem. Paste a GitHub link to a Claude Skill and get a ready-to-use Kiro Power with steering files, structured metadata, and best practices applied."
 keywords: ["claude", "skill", "power", "convert", "migrate", "kiro"]
 author: "RomLevian"
 ---
 
-# Claude Skill to Kiro Power Converter
+# Migrate to Kiro Powers
 
 ## Overview
 
-This power converts Claude Code Skills into Kiro Powers. Claude Skills are markdown-based knowledge packages for Claude Code (IDE extension), while Kiro Powers are enhanced packages for Kiro (standalone IDE) that can additionally bundle MCP servers, steering files, and structured metadata.
+Bring your Claude Code Skills into Kiro and take advantage of Powers' enhanced capabilities — steering files for progressive disclosure, structured frontmatter for discovery, and optional MCP server integration.
 
 The conversion is straightforward because both use markdown-based documentation with progressive disclosure patterns. You provide a GitHub link to a Claude Skill, and the agent fetches, restructures, and creates a ready-to-use Kiro Power.
 
