@@ -3,7 +3,7 @@ name: "mcp-builder"
 displayName: "MCP Server Builder"
 description: "Guide for creating high-quality MCP servers that enable LLMs to interact with external services. Covers TypeScript and Python implementations with best practices, tool design, and evaluation creation."
 keywords: ["mcp", "model-context-protocol", "mcp-server", "fastmcp", "typescript-sdk"]
-author: "Anthropic"
+author: "RomLevian"
 ---
 
 # MCP Server Development Guide
@@ -77,5 +77,8 @@ Create 10 complex, realistic evaluation questions that test whether LLMs can eff
 
 ## License & Attribution
 
-**Original Work:** Converted from [mcp-builder](https://github.com/anthropics/skills/tree/main/skills/mcp-builder) by Anthropic.
-**License:** See original repository for complete terms.
+This power is a Knowledge Base Power (no MCP servers) derived from [mcp-builder](https://github.com/anthropics/skills/tree/main/skills/mcp-builder) by Anthropic (Apache-2.0).
+
+- [Original License](https://github.com/anthropics/skills/blob/main/skills/mcp-builder/LICENSE.txt)
+- [Privacy Policy](https://aws.amazon.com/privacy/)
+- [Support](https://github.com/RomLevian/Kiro/issues)
